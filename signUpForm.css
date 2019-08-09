@@ -1,0 +1,17 @@
+.dropdown{
+    height: 20px;
+    max-height: 20px;
+    overflow-y: scroll;
+}
+.signupform{
+    display: flex;
+    justify-content: center;
+}
+.toptxt{
+    display: flex;
+    justify-content: center;
+}
+.submitbtn{
+    display: flex;
+    justify-content: center;
+}
